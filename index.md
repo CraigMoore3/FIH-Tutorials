@@ -5,7 +5,7 @@
 <details>
 <summary>Windows Updates</summary>
 <br>
-<img src="/UpdateScreenshots/WindowsUpdate.png" alt="Windows Update"> Windows Update </img>
+<img src="/UpdateScreenshots/WindowsUpdate.png" alt="Windows Update">
 </details>
 
 ### Support Assist
