@@ -2,10 +2,11 @@
 
 ## System Updates
 
+<img src="/UpdateScreenshots/WindowsUpdate.png" alt="Windows Update">
+
 <details>
 <summary>Windows Updates</summary>
 <br>
-<img src="/UpdateScreenshots/WindowsUpdate.png" alt="Windows Update">
 </details>
 
 ### Support Assist
