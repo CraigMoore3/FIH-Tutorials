@@ -2,9 +2,11 @@
 
 ## System Updates
 
-### Windows Updates
-
+<details>
+<summary>Windows Updates</summary>
+<br>
 ![Windows Updates](/UpdateScreenshots/WindowsUpdate.png)
+</details>
 
 ### Support Assist
 
