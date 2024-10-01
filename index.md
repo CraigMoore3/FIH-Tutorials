@@ -8,17 +8,17 @@
   <summary>Show</summary>
   <br>
 
-- **Software Name:** Support Assist
+  - **Software Name:** Support Assist
 
-- **Update Type:** System Update (BIOS, DRIVERS)
+  - **Update Type:** System Update (BIOS, DRIVERS)
 
-- **Account Permissions:** ADMINISTRATOR
+  - **Account Permissions:** ADMINISTRATOR
 
-- **Checks for Updates at launch?** N
+  - **Checks for Updates at launch?** N
 
-- **Sign-In?** N
+  - **Sign-In?** N
 
-- **Frequency:** BI-WEEKLY
+  - **Frequency:** BI-WEEKLY
 
   <br>
 
