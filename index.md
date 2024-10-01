@@ -4,6 +4,8 @@
 
 ## Support Assist
 
+<img src="/UpdateScreenshots/WindowsUpdate.png" alt="Windows Update">
+
 <details>
 <summary>Show</summary>
 <br>
