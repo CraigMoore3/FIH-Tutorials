@@ -65,17 +65,9 @@
 
 > Run Meta Quest Developer Hub > [Settings] > About > Version > Update
 
-<br>
-
 ![Meta Quest Developer Hub](/UpdateScreenshots/Meta_Quest_Developer_Hub.png)
 
-</details>
-
 ## ShareX
-
-<details>
-<summary>Show</summary>
-<br>
 
 - **Software Name:** ShareX
 
@@ -93,17 +85,9 @@
 
 > Run ShareX > About > [update]
 
-<br>
-
 ![ShareX](/UpdateScreenshots/ShareX.png)
 
-</details>
-
 ## Unity Hub
-
-<details>
-<summary>Show</summary>
-<br>
 
 - **Software Name:** Unity Hub
 
@@ -121,17 +105,9 @@
 
 > Run Unity Hub > Sign in w/ Google > Restart Now [top of screen]
 
-<br>
-
 ![Unity Hub](/UpdateScreenshots/Unity_Hub.png)
 
-</details>
-
 ## Microsoft Visual Studio
-
-<details>
-<summary>Show</summary>
-<br>
 
 - **Software Name:** Microsoft Visual Studio
 
@@ -147,14 +123,10 @@
 
 ### Instructions
 
-<br>
-
 ***Visual Studio Installer:***
 > Run Visual Studio Installer > Update
 
 ![Microsoft Visual Studio Installer](/UpdateScreenshots/VisualStudio_Installer.png)
-
-<br>
 
 ***Visual Studio GUI:***
 
@@ -166,188 +138,78 @@
 
 ![Microsoft Visual Studio](/UpdateScreenshots/VisualStudio.png)
 
-</details>
-
 ## Zoom
-
-<details>
-<summary>Show</summary>
-<br>
 
 ![Zoom](/UpdateScreenshots/Zoom.png)
 
-</details>
-
 ## Notepad++
 
-<details>
-<summary>Show</summary>
-<br>
-
 ![Notepad++](/UpdateScreenshots/Notepad++.png)
-
-</details>
 
 ## *Software Updates*
 
 ## Aspire
 
-<details>
-<summary>Show</summary>
-<br>
-
 ![Aspire](/UpdateScreenshots/Aspire.png)
-
-</details>
 
 ## Audacity
 
-<details>
-<summary>Show</summary>
-<br>
-
 Photo Pending
-
-</details>
 
 ## AutoDesk
 
-<details>
-<summary>Show</summary>
-<br>
-
 ![AutoDesk](/UpdateScreenshots/AutodeskAccess.png)
-
-</details>
 
 ## Blender
 
-<details>
-<summary>Show</summary>
-<br>
-
 ![Blender](/UpdateScreenshots/blender.png)
-
-</details>
 
 ## Chataigne
 
-<details>
-<summary>Show</summary>
-<br>
-
 ![Chataigne](/UpdateScreenshots/Chataigne.png)
-
-</details>
 
 ## Epic Games Launcher
 
-<details>
-<summary>Show</summary>
-<br>
-
 Photo Pending
-
-</details>
 
 ## GIMP
 
-<details>
-<summary>Show</summary>
-<br>
-
 ![GIMP](/UpdateScreenshots/Gimp.png)
-
-</details>
 
 ## Handbrake
 
-<details>
-<summary>Show</summary>
-<br>
-
 ![Handbrake](/UpdateScreenshots/Handbrake.png)
-
-</details>
 
 ## Inkscape
 
-<details>
-<summary>Show</summary>
-<br>
-
 ![Inkscape](/UpdateScreenshots/inkscape.png)
-
-</details>
 
 ## PrusaSlicer
 
-<details>
-<summary>Show</summary>
-<br>
-
 ![PrusaSlicer](/UpdateScreenshots/PrusaSlicer.png)
-
-</details>
 
 ## PuTTY
 
-<details>
-<summary>Show</summary>
-<br>
-
 Photo pending
-
-</details>
 
 ## Touch Designer
 
-<details>
-<summary>Show</summary>
-<br>
-
 Photo Pending
-
-</details>
 
 ## Visual Studio Code
 
-<details>
-<summary>Show</summary>
-<br>
-
 ![Visual Studio Code](/UpdateScreenshots/VSC.png)
-
-</details>
 
 ## Vive Business Streaming
 
-<details>
-<summary>Show</summary>
-<br>
-
 ![Vive Business Streaming](/UpdateScreenshots/ViveStreamingHub.png)
-
-</details>
 
 ## *Development Environment Updates*
 
 ## Unreal Engine
 
-<details>
-<summary>Show</summary>
-<br>
-
 ![Unreal Engine](/UpdateScreenshots/EpicGames.png)
-
-</details>
 
 ## Unity Editor
 
-<details>
-<summary>Show</summary>
-<br>
-
 Ask Jackson
-
-</details>
