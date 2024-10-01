@@ -5,8 +5,8 @@
 ## Support Assist
 
 <details>
-<summary>Show</summary>
-<br>
+  <summary>Show</summary>
+  <br>
 
 - **Software Name:** Support Assist
 
@@ -20,18 +20,18 @@
 
 - **Frequency:** BI-WEEKLY
 
-<br>
+  <br>
 
->[!CAUTION]
->Take care to not run BIOS updates directly before a class needs to use the Rubini Lab!
+  >[!CAUTION]
+  >Take care to not run BIOS updates directly before a class needs to use the Rubini Lab!
 
-### Instructions
+  ### Instructions
 
-> Sign out of User account > Sign in as Administrator (.\TheHub) > Run Support Assist > Run Full System Scan > Install Updates > Restart
+  > Sign out of User account > Sign in as Administrator (.\TheHub) > Run Support Assist > Run Full System Scan > Install Updates > Restart
 
-<br>
+  <br>
 
-![Support Assist](/UpdateScreenshots/SupportAssist.png)
+  ![Support Assist](/UpdateScreenshots/SupportAssist.png)
 
 </details>
 
