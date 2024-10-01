@@ -4,10 +4,6 @@
 
 ## Support Assist
 
-<details>
-<summary>Show</summary>
-<br>
-
 - **Software Name:** Support Assist
 
 - **Update Type:** System Update (BIOS, DRIVERS)
@@ -20,8 +16,6 @@
 
 - **Frequency:** BI-WEEKLY
 
-<br>
-
 >[!CAUTION]
 >Take care to not run BIOS updates directly before a class needs to use the Rubini Lab!
 
@@ -29,17 +23,9 @@
 
 > Sign out of User account > Sign in as Administrator (.\TheHub) > Run Support Assist > Run Full System Scan > Install Updates > Restart
 
-<br>
-
 ![Support Assist](/UpdateScreenshots/SupportAssist.png)
 
-</details>
-
 ## GeForce Experience
-
-<details>
-<summary>Show</summary>
-<br>
 
 - **Software Name:** Nvidia GeForce Experience
 
@@ -57,19 +43,11 @@
 
 > Run GeForce Experience as Administrator > Sign in w/ Google > Validate E-Mail 2FA > Drivers > Check for Updates > Express Installation
 
-<br>
-
 ![GeForce Experience](/UpdateScreenshots/NVIDIA_GeForce_Experience.png)
-
-</details>
 
 ## *Critical Software Updates*
 
 ## Meta Quest Developer Hub
-
-<details>
-<summary>Show</summary>
-<br>
 
 - **Software Name:** Meta Quest Developer Hub
 
